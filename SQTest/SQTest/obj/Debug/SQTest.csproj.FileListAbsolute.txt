@@ -1,0 +1,10 @@
+C:\Users\VP50272\source\repos\SQTest\SQTest\bin\Debug\SQTest.exe.config
+C:\Users\VP50272\source\repos\SQTest\SQTest\bin\Debug\SQTest.exe
+C:\Users\VP50272\source\repos\SQTest\SQTest\bin\Debug\SQTest.pdb
+C:\Users\VP50272\source\repos\SQTest\SQTest\obj\Debug\SQTest.csprojAssemblyReference.cache
+C:\Users\VP50272\source\repos\SQTest\SQTest\obj\Debug\SQTest.Form1.resources
+C:\Users\VP50272\source\repos\SQTest\SQTest\obj\Debug\SQTest.Properties.Resources.resources
+C:\Users\VP50272\source\repos\SQTest\SQTest\obj\Debug\SQTest.csproj.GenerateResource.cache
+C:\Users\VP50272\source\repos\SQTest\SQTest\obj\Debug\SQTest.csproj.CoreCompileInputs.cache
+C:\Users\VP50272\source\repos\SQTest\SQTest\obj\Debug\SQTest.exe
+C:\Users\VP50272\source\repos\SQTest\SQTest\obj\Debug\SQTest.pdb
